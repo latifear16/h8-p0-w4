@@ -33,4 +33,4 @@ console.log(checkAB('lane borrowed')); // true
 console.log(checkAB('i am sick')); // false
 console.log(checkAB('you are boring')); // true
 console.log(checkAB('barbarian')); // true
-console.log(checkAB('bacon and meat')); // false
+console.log(checkAB('bacon and meat')); // false // case terakhir masih belum jalan
